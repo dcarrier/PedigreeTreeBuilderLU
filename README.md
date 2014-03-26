@@ -11,4 +11,9 @@ Beneficiaries: The primary benefactor is the Greenwood Genetic Center. That bein
 
 ***CURRENTLY DEVELOPING:CODE IN BETA STAGE***
 
+<<<<<<< HEAD
 ***FINAL CODE COMING SOON / EST:April 2014***
+=======
+***FINAL CODE COMING SOON / EST:April 2014 ***
+
+>>>>>>> f3c4898b654e61faa11a07d0a39fc955d4a04ce9
